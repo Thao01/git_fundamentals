@@ -1,0 +1,2 @@
+This folder contains existing .txt files for each student.
+Your goal is to modify the contents of the file with your name and then commit this change, push it to remote and create pull request.
