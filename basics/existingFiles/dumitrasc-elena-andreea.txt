@@ -1,2 +1,2 @@
 FirstName: Elena Andreea
-LastName: Dumitrasc Dr
+LastName: Dumitrasc
